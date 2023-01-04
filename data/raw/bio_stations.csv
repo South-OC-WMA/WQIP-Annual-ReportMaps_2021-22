@@ -1,0 +1,9 @@
+,Station,Station Description,Sample Date,Latitude,Longitude,Program,SHAPE,CSCI Score,CRAM Score,CSCI Color,CRAM Color
+0,901M14155,Tijeras Creek,2021-04-27 00:00:00,33.6213868013132,-117.606831590471,SMC,"{'spatialReference': {'wkid': 4326}, 'x': -117.606831590471, 'y': 33.6213868013132}",0.677986943601004,75,Orange,Yellow
+1,SMC00531,Laguna Canyon Wash,2021-04-27 00:00:00,33.55975,-117.772,SMC,"{'spatialReference': {'wkid': 4326}, 'x': -117.772, 'y': 33.55975}",0.409889944291155,31,Red,Red
+2,ALC04@Aliso Park,Aliso Creek,2021-08-05 00:00:00,33.601165,-117.70517,Pre-Restoration,"{'spatialReference': {'wkid': 4326}, 'x': -117.70517, 'y': 33.601165}",0.714766845400781,64,Orange,Yellow
+3,HMPE-1,Chiquita Creek,2021-05-11 00:00:00,33.53714,-117.61085,HMP,"{'spatialReference': {'wkid': 4326}, 'x': -117.61085, 'y': 33.53714}",0.69,75,Orange,Yellow
+4,HMPE-2,Chiquita Creek,2021-05-11 00:00:00,33.53841,-117.61071,HMP,"{'spatialReference': {'wkid': 4326}, 'x': -117.61071, 'y': 33.53841}",0.65,60,Orange,Orange
+5,HMPE-3,Chiquita Creek,2021-05-11 00:00:00,33.54332,-117.61186,HMP,"{'spatialReference': {'wkid': 4326}, 'x': -117.61186, 'y': 33.54332}",0.59,54,Red,Orange
+6,HMPE-4,Chiquita Creek,2021-05-12 00:00:00,33.54543,-117.61123,HMP,"{'spatialReference': {'wkid': 4326}, 'x': -117.61123, 'y': 33.54543}",0.72,47,Orange,Orange
+7,HMPE-5,Chiquita Creek,2021-05-12 00:00:00,33.55239,-117.61089,HMP,"{'spatialReference': {'wkid': 4326}, 'x': -117.61089, 'y': 33.55239}",0.58,81,Red,Yellow

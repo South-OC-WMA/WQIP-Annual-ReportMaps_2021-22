@@ -16,6 +16,7 @@ This repo documents the creation of a portion of the map figures and map package
     ├── notebooks          <- Jupyter notebooks. Naming convention is a 2 digits (for ordering)
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     ├── output             <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── R                  <- R source code for use in this project
     └── python             <- Python source code for use in this project
 ```
 ## Reproducing
